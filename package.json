@@ -1,0 +1,27 @@
+{
+  "name": "nodeandcloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cities": "^2.0.0",
+    "http": "0.0.1-security",
+    "http-status-codes": "^2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syed476/node_and_cloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syed476/node_and_cloud/issues"
+  },
+  "homepage": "https://github.com/Syed476/node_and_cloud#readme"
+}
