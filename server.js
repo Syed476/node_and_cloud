@@ -12,3 +12,6 @@ const app = http.createServer((request, response) => {
   response.end();
   response.log('Sent a response : ${responseMessage}');
 });
+app.listen (port)
+console.log("The server has started ... on port ${port}")
+
